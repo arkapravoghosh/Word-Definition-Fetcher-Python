@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 31 22:19:48 2018
 
-@author: Dr. Amal K Ghosh
+@author: Arkapravo Ghosh
 """
 
 import json
